@@ -30,7 +30,6 @@ vectorizer = DictVectorizer(sparse=False)
 vectorizer.fit(features)
 joblib.dump(vectorizer, 'vectorizer_entity.pkl')
 
-
 transformed=vectorizer.transform(features)
 X_train, X_test, y_train, y_test = model_selection.train_test_split(transformed, targets, test_size=0.20, random_state=42)
 

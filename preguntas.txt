@@ -1,0 +1,115 @@
+0 quien eres
+0 quien eres tu
+0 que eres
+0 que cosa eres tu
+0 que cosa eres
+
+0 de DONDE SER 
+0 de DONDE PROVIENES
+
+donde = ['donde','']
+
+
+
+0 QUE SER
+0 QUE SER COSA
+0 QUE COSA SER TU
+
+0 COMO te LLAMAR
+0 COMO LLAMAR tu
+0 COMO es tu LLAMAR
+
+como = ['como','cual',]
+llama = ['llamas','nombre']
+
+
+QUE = ['quien', 'que']
+COSA = ['tu','cosa','ente','ser']
+SER = ['eres']
+
+
+
+1 quien te hizo
+1 quien es tu creador
+1 quien te creo
+1 quien es tu papa
+1 quien es tu 
+
+1 QUIEN SER TU CREADOR
+1 QUIEN SER CREADOR
+
+QUIEN = ['quien']
+SER = ['es','fue','te ha','tu','ha sido tu']
+CREADOR = ['creador','creado','papa','padre','creo']
+
+
+
+2 que haces
+2 que puedes hacer
+2 cual es tu tarea
+2 que cosas puedes hacer
+
+2 CUAL PODER HACER TU
+2 CUAL TAREA PODER HACER TU
+2 CUAL HACER TU
+2 CUAL PODER HACER
+2 CUAL TU HACER
+2 CUAL TAREA HACER PUEDES
+
+CUAL = ['que','cual']
+TAREA = ['cosa','cosas','tarea']
+HACER = ['hacer','haces']
+PODER = ['poder','puedes','podrias']
+TU = ['tu','ser']
+
+
+
+3 saludos
+3 hola
+3 holi
+3 hi
+3 hello
+3 hola bot
+3 que tal bot
+3 hola que tal
+3 que hay papu
+3 que onda
+3 que pex
+
+3 HOLA
+3 HOLA BOT
+3 que ONDA BOT
+3 que ONDA
+3 BUEN DIA
+
+HOLA = ['hola', 'holi','hi','hello','que hay']
+BOT = ['bot','chatbot','robot','papu','amigo','dude']
+ONDA = ['que onda','que pex','peduqui','hay','tal']
+QUE = ['']
+
+BUEN = ['buenos','buenas']
+DIA =  ['dias','tardes','noches']
+
+
+
+
+como te llamas
+cual es tu nombre
+--que
+--quien
+oracle
+ibm
+
+
+de donde eres?
+
+que puedes hacer?
+
+saludos
+buenos dias, buenas noches, etc..
+
+
+
+donde,provienes,
+'DONDE','PROVIENES',
+'donde','prov',
